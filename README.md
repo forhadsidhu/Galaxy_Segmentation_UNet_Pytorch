@@ -14,7 +14,7 @@
    - *Run ***main.py*** from ***agents*** folder*
   
 # ***My Position in Galaxy***
-<img src="https://media.giphy.com/media/2DDt87b11v0Iw/giphy.gif" height="400" width="800">
+<img src="https://github.com/forhadsidhu/Galaxy_Segmentation_UNet_Pytorch/blob/master/plae_blue.PNG" height="400" width="800">
 Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam.
 
 The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
