@@ -1,0 +1,7 @@
+pip install torch
+pip install opencv-python
+pip install numpy
+pip install pandas
+pip install scikit-image
+pip install tqdm
+pip install torchsummary
